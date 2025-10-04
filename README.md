@@ -67,7 +67,7 @@ A brute-force approach becomes **computationally impossible** for real-world app
    cd delivery-route-optimizer
 
 ## 💻 Usage
-Quick Start with Sample Data:
+**Quick Start with Sample Data:**
 git bash-
 python route_optimizer.py
 -Choose option 1 for sample locations
@@ -77,7 +77,7 @@ python route_optimizer.py
 
 
 Step-by-Step Guide:
-Run the application:
+**Run the application:**
 cmd prompt or git bash-
 "python route_optimizer.py"
 
