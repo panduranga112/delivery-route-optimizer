@@ -1,0 +1,10 @@
+Sample Delivery Locations Format:
+Name, X-coordinate, Y-coordinate
+
+Example:
+Warehouse, 0, 0
+Office A, 2, 4
+Office B, 7, 3
+Cafe, 1, 6
+School, 8, 7
+Mall, 4, 1
