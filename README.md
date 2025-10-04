@@ -105,16 +105,16 @@ View optimized route:
 
 ## 📊 Example Output 
           OPTIMIZED DELIVERY ROUTE
-==================================================
-Start -> Warehouse (Warehouse)
-Stop  1 -> Mall
-Stop  2 -> Restaurant
-Stop  3 -> Office A
-...
-End   -> Warehouse (Back to Warehouse)
-==================================================
-Total Distance: 38.45 units
-==================================================
+- ==================================================
+- Start -> Warehouse (Warehouse)
+- Stop  1 -> Mall
+- Stop  2 -> Restaurant
+- Stop  3 -> Office A
+- ...
+- End   -> Warehouse (Back to Warehouse)
+- ==================================================
+- Total Distance: 38.45 units
+- ==================================================
 
 # 💡 EFFICIENCY METRICS:
   - Number of locations: 10
