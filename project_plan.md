@@ -1,4 +1,4 @@
-Step 1: Brainstorming & Problem Selection
+## Step 1: Brainstorming & Problem Selection
 Selected Problem: Delivery Route Optimization for a Single Driver
 
 Real-World Scenario: A food delivery driver or a courier has to deliver 10-15 packages in a city. They need to find the most efficient route that minimizes total distance traveled and time taken.
@@ -7,7 +7,7 @@ Why it's a problem: Checking all possible routes (brute force) is computationall
 
 Our Solution: We will use a Greedy Algorithm (Nearest Neighbor) to find a good solution very quickly, which is much more efficient than brute force and perfect for real-time applications.
 
-Step 2: Identified Data Structures & Algorithms
+## Step 2: Identified Data Structures & Algorithms
 Data Structure: Graph
 
 Vertices (Nodes): Represent delivery locations and the warehouse.
@@ -26,7 +26,7 @@ Efficiency: Time Complexity of O(n²), where n is the number of locations. This 
 
 Why it's efficient: It makes the locally optimal choice at each step, providing a "good enough" solution in a fraction of the time.
 
-Step 3: Project Documentation (Your Submission)
+## Step 3: Project Documentation (Your Submission)
 Create a document (e.g., Project_Plan.pdf) with the following:
 
 1. Project Title: Delivery Route Optimizer using Nearest Neighbor Algorithm
