@@ -147,57 +147,6 @@ Field Services: Schedule technician visits
 
 E-commerce: Same-day delivery route planning
 
-
-## 🤝 Contributing
-We welcome contributions from the community! Here's how you can help improve this project:
-### 🔍 Algorithm Enhancements
-- [ ] Implement Genetic Algorithms for better optimization
-- [ ] Add Simulated Annealing approach
-- [ ] Integrate Ant Colony Optimization
-- [ ] Feature distinct TSP solving techniques
-
-### ✨ Feature Additions
-- [ ] Time window constraints for deliveries
-- [ ] Vehicle capacity limits
-- [ ] Multiple depot support
-- [ ] Real-time traffic data integration
-- [ ] Dynamic break scheduling
-
-### 📊 Visualization
-- [ ] Matplotlib integration for route plotting
-- [ ] Interactive maps with Folium
-- [ ] Real-time route animation
-- [ ] Performance comparison charts
-
-### 🖥️ User Interface
-- [ ] Web-based interface using Flask/Django
-- [ ] Mobile application
-- [ ] REST API for integration
-- [ ] Database support for location storage
-
-## 📄 License
-MIT License
-
-Copyright (c) 2025 ANSH PANDEY
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 ## 👨‍💻 Developer
 **Ansh Pandey**  
 - GitHub: [@panduranga112](https://github.com/panduranga112)
