@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/delivery-route-optimizer?style=social)
 
-An efficient solution to the **Traveling Salesperson Problem (TSP)** for delivery route optimization using the **Nearest Neighbor greedy algorithm**. This project demonstrates how efficient data structures and algorithms can solve real-world logistics problems.
+An efficient solution to the **Delivery Salesperson Problem (DSP)** for delivery route optimization using the **Nearest Neighbor greedy algorithm**. This project demonstrates how efficient data structures and algorithms can solve real-world logistics problems.
 
 ## 📋 Table of Contents
 - [Problem Statement](#problem-statement)
